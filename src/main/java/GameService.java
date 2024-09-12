@@ -31,5 +31,5 @@ public class GameService {
         if(comp==0)
             return true;
         return false;
-    }
+    }//tests loaded
 }
